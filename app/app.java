@@ -1,3 +1,3 @@
 public class app {
-    System.out,
+    System.out.print("sunil the ceo and play boy");
 }

@@ -1,3 +1,3 @@
 public class app {
-    system.out.pri
+    System.out,
 }
